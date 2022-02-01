@@ -1,5 +1,5 @@
 •What is a gitignore file and what should it include for a Java project?
-A)gitignore file ignores the commits that are done in the project.
+A)gitignore file ignores the commits that are done in the project. It includes .class,.jar,.war,.ear,.nar.
 •What does fast-forward in Git mean?
 A)Fast forward is a merge type in whichi it merges the branches using pointer reference
 •Why should you have different branches?
